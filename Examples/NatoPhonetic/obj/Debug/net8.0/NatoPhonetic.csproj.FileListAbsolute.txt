@@ -1,0 +1,14 @@
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\NatoPhonetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\NatoPhonetic.AssemblyInfoInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\NatoPhonetic.AssemblyInfo.cs
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\NatoPhonetic.csproj.CoreCompileInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\bin\Debug\net8.0\NatoPhonetic.exe
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\bin\Debug\net8.0\NatoPhonetic.deps.json
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\bin\Debug\net8.0\NatoPhonetic.runtimeconfig.json
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\bin\Debug\net8.0\NatoPhonetic.dll
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\bin\Debug\net8.0\NatoPhonetic.pdb
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\NatoPhonetic.dll
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\refint\NatoPhonetic.dll
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\NatoPhonetic.pdb
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\NatoPhonetic.genruntimeconfig.cache
+C:\Users\jdand\Downloads\revatureTraining\playground\NatoPhonetic\obj\Debug\net8.0\ref\NatoPhonetic.dll
