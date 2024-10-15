@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jdand\\Downloads\\revatureTraining\\playground\\NatoPhonetic\\NatoPhonetic.csproj": {}
+    "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\NatoPhonetic\\NatoPhonetic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jdand\\Downloads\\revatureTraining\\playground\\NatoPhonetic\\NatoPhonetic.csproj": {
+    "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\NatoPhonetic\\NatoPhonetic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jdand\\Downloads\\revatureTraining\\playground\\NatoPhonetic\\NatoPhonetic.csproj",
+        "projectUniqueName": "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\NatoPhonetic\\NatoPhonetic.csproj",
         "projectName": "NatoPhonetic",
-        "projectPath": "C:\\Users\\jdand\\Downloads\\revatureTraining\\playground\\NatoPhonetic\\NatoPhonetic.csproj",
-        "packagesPath": "C:\\Users\\jdand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jdand\\Downloads\\revatureTraining\\playground\\NatoPhonetic\\obj\\",
+        "projectPath": "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\NatoPhonetic\\NatoPhonetic.csproj",
+        "packagesPath": "C:\\Users\\kylie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\NatoPhonetic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jdand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kylie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
