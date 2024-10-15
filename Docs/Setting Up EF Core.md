@@ -48,7 +48,7 @@ public class Review
 - Create a text file to store connection string info
 - Name it connectionString.txt
 ```text
-Server=localhost;Database=BookDb;Trusted_Connection=True;
+Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;
 ```
 
 
