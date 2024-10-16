@@ -139,9 +139,9 @@ public class PetContext : DbContext{
     - The HasData method allows you to provide initial data for the Pet table.
     - This data will be inserted into the database when migrations are applied.
 
-**<span style="color:red">Key Points</span>**
+5. **<span style="color:red">Key Points</span>**
     - Database Context: PetContext serves as the main point of interaction with the database for Pet-related operations.
-`   - Configuration Injection: The constructor allows for flexible database configuration through dependency injection.
+    - Configuration Injection: The constructor allows for flexible database configuration through dependency injection.
     - Entity Set: The Pets property defines a queryable and modifiable set of Pet entities.
     - Data Seeding: The OnModelCreating method is overridden to provide initial data for the Pet table, ensuring the database starts with some predefined entries.
     - Model Configuration: While not shown in this example, OnModelCreating can also be used for more complex model configurations, such as defining relationships, indexes, or constraints.
