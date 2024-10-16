@@ -38,8 +38,9 @@ Imagine a `DbContext` as a penguin playground. It's where all the penguin-relate
 Let's use snowballs to represent data operations:
 
 1. **Create (Add)**: A penguin makes a new snowball.
-   ```csharp
-   context.Snowballs.Add(new Snowball { Size = "Large", Shape = "Round" });
+```csharp
+context.Snowballs.Add(new Snowball { Size = "Large", Shape = "Round" });
+```
 
 ### Update: A penguin reshapes a snowball
 

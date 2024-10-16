@@ -88,3 +88,6 @@ public class BookContext : DbContext
 }
 ```
 
+# See 10/15 3rd and 4th video for explantion of refactoring project 
+
+
