@@ -43,7 +43,7 @@ class Program
 		
 		// array syntax Type[] variableName = {} '
 		
-		// for instance make an array array for penguin name in a colony 
+		// for instance make an array array for penguin name in a colony  (string array)
 		string[] penguinNames = {"jerry", "larry", "gerald", "bob", "pengu"}; 
 		
 		// prompt make an array of strings
