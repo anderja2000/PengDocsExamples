@@ -1,1 +1,0 @@
-know the def of stored procedure 
