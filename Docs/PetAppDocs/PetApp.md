@@ -104,7 +104,17 @@ public class PetContext : DbContext{
         - Allows you to query and save data
     - By inheriting from DbContext, PetContext gains all the database interaction capabilities provided by Entity Framework Core.
 
-    <span style="color:red">**Explantion of Syntax**</span>
+   
+
+ 2. *<span style="color:yellow">Constructor</span>*
+    ```csharp
+    public PetContext(DbContextOptions<PetContext> options) : base(options) { }
+    ```
+    - This constructor takes DbContextOptions<PetContext> as a parameter.
+    - It passes these options to the base DbContext constructor.
+    - This setup allows for dependency injection of database configuration, which is crucial for flexibility in configuring the database connection.
+
+     <span style="color:red">**Explantion of Syntax**</span>
 
     -*<span style="color:orange">(DbContextOptions<PetContext> options)</span>*:
         - The parameter list. This constructor takes one parameter:
@@ -114,14 +124,6 @@ public class PetContext : DbContext{
         - This is the constructor initializer.
         - It calls the constructor of the base class (DbContext) and passes the options parameter to it.
         - This ensures that the base DbContext is properly initialized with the provided options.
-
- 2. *<span style="color:yellow">Constructor</span>*
-    ```csharp
-    public PetContext(DbContextOptions<PetContext> options) : base(options) { }
-    ```
-    - This constructor takes DbContextOptions<PetContext> as a parameter.
-    - It passes these options to the base DbContext constructor.
-    - This setup allows for dependency injection of database configuration, which is crucial for flexibility in configuring the database connection.
 
  3. *<span style="color:yellow">Dbset Property</span>*
     ```csharp 
