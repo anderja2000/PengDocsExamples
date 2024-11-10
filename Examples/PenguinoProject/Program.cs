@@ -47,13 +47,13 @@ class Program
 		string[] penguinNames = {"jerry", "larry", "gerald", "bob", "pengu"}; 
 		
 		// prompt make an array of strings
-		
+		string[] koalas = {"koawa","bear","koala bear"};
 		
 		// prompt make an array of numbers 
-		
+		int[] mynum = {1,3,4,5,6};
 		
 		// prompt make a array of char 
-		
+		char[] mychar = {'c','h'};
 
 		// 4. Control Structures
 		// Prompt: Write an if statement to check score
