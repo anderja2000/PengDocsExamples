@@ -1,0 +1,15 @@
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\bin\Debug\net8.0\PenguinoProject.exe
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\bin\Debug\net8.0\PenguinoProject.deps.json
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\bin\Debug\net8.0\PenguinoProject.runtimeconfig.json
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\bin\Debug\net8.0\PenguinoProject.dll
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\bin\Debug\net8.0\PenguinoProject.pdb
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.AssemblyInfoInputs.cache
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.AssemblyInfo.cs
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.csproj.CoreCompileInputs.cache
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.sourcelink.json
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.dll
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\refint\PenguinoProject.dll
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.pdb
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\PenguinoProject.genruntimeconfig.cache
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\PenguinoProject\obj\Debug\net8.0\ref\PenguinoProject.dll
