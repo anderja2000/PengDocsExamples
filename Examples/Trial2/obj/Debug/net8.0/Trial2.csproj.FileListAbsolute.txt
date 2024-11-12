@@ -1,0 +1,15 @@
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\bin\Debug\net8.0\Trial2.exe
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\bin\Debug\net8.0\Trial2.deps.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\bin\Debug\net8.0\Trial2.runtimeconfig.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\bin\Debug\net8.0\Trial2.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\bin\Debug\net8.0\Trial2.pdb
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.AssemblyInfoInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.AssemblyInfo.cs
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.csproj.CoreCompileInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.sourcelink.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\refint\Trial2.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.pdb
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\Trial2.genruntimeconfig.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial2\obj\Debug\net8.0\ref\Trial2.dll

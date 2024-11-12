@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\kylie\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\jdand\\.nuget\\packages\\": {}
+>>>>>>> 65f35608995f098f1f4776273f147ae1096b1717
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
       "projectName": "Trial",
       "projectPath": "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kylie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
+      "projectName": "Trial",
+      "projectPath": "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
+      "packagesPath": "C:\\Users\\jdand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jdand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 65f35608995f098f1f4776273f147ae1096b1717
       ],
       "originalTargetFrameworks": [
         "net8.0"

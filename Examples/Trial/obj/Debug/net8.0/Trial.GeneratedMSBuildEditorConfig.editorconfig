@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Trial
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\
+=======
+build_property.ProjectDir = C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Trial\
+>>>>>>> 65f35608995f098f1f4776273f147ae1096b1717
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

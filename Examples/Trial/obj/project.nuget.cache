@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "pV5yTl4vqfM=",
   "success": true,
   "projectFilePath": "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
+=======
+  "dgSpecHash": "SVMyzuksWe4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
+>>>>>>> 65f35608995f098f1f4776273f147ae1096b1717
   "expectedPackageFiles": [],
   "logs": []
 }

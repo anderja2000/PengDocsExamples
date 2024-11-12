@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NatoPhonetic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9edef563fa87f2db7668c81640cbfec9c4e182e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c5194dca701c0334b4ea99cb60df0f032d86c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NatoPhonetic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NatoPhonetic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

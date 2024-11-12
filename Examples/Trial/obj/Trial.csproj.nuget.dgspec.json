@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\kylie\\OneDrive\\Desktop\\PengDocsExamples\\Examples\\Trial\\Trial.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kylie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\Trial.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\Trial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
+        "projectName": "Trial",
+        "projectPath": "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\Trial.csproj",
+        "packagesPath": "C:\\Users\\jdand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdand\\Downloads\\revatureTraining\\PengDocsExamples\\Examples\\Trial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jdand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 65f35608995f098f1f4776273f147ae1096b1717
         ],
         "originalTargetFrameworks": [
           "net8.0"
