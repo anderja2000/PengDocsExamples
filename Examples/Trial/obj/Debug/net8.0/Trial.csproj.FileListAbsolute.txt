@@ -1,0 +1,15 @@
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\bin\Debug\net8.0\Trial.exe
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\bin\Debug\net8.0\Trial.deps.json
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\bin\Debug\net8.0\Trial.runtimeconfig.json
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\bin\Debug\net8.0\Trial.dll
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\bin\Debug\net8.0\Trial.pdb
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.AssemblyInfoInputs.cache
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.AssemblyInfo.cs
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.csproj.CoreCompileInputs.cache
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.sourcelink.json
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.dll
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\refint\Trial.dll
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.pdb
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\Trial.genruntimeconfig.cache
+C:\Users\kylie\OneDrive\Desktop\PengDocsExamples\Examples\Trial\obj\Debug\net8.0\ref\Trial.dll
