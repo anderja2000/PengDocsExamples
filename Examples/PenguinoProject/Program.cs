@@ -66,7 +66,7 @@ class Program
 		else
 		{
 			// Output "Failed"
-		}
+			}
 
         // Prompt: Use a switch statement for dayOfWeek
         Console.WriteLine("Choose a day");
