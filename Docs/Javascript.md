@@ -89,4 +89,4 @@ JavaScript has three main variable scopes that determine the accessibility of va
     } catch (error) {
       console.error(error);
     }
-  }
+  }****
