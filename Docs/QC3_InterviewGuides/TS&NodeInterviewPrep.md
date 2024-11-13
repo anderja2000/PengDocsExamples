@@ -134,6 +134,7 @@ Enums in TypeScript are used to define sets of named constants (W). They are ide
 TypeScript features like `enum`, interfaces, and access modifiers are not directly supported in JavaScript and are transpiled to more compatible JavaScript constructs (W). For example, `enum` is transpiled to an object, and interfaces are discarded since they don’t have a runtime representation (H). Understanding these transpilation results helps in knowing how TypeScript features behave in the final JavaScript code (Y).
 
 ---
+
 # Node.js Knowledge Base
 
 ---
