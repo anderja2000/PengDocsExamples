@@ -28,8 +28,7 @@ class Program
 		Console.Write("Enter a possible palindrome: ");
 		string Input = Console.ReadLine();
 		
-		while (Input != "Quit" || Input != "quit") {
-			bool IsPalindrome = true; 
+		bool IsPalindrome = true; 
 		
 		for (int i = 0; i < Input.Length / 2; i++) { 
 			if (Input[i] != Input[Input.Length -i -1]) { 
@@ -39,8 +38,5 @@ class Program
 		}
 		
 		Console.WriteLine((IsPalindrome)? $" {Input} is a palindrome": $"{Input} is not a palindrome");
-			
-		}
-		
 	}
 }
