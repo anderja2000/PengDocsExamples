@@ -1,0 +1,15 @@
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.AssemblyInfoInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.AssemblyInfo.cs
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.sourcelink.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\bin\Debug\net8.0\InfosysPalindrome.exe
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\bin\Debug\net8.0\InfosysPalindrome.deps.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\bin\Debug\net8.0\InfosysPalindrome.runtimeconfig.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\bin\Debug\net8.0\InfosysPalindrome.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\bin\Debug\net8.0\InfosysPalindrome.pdb
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\refint\InfosysPalindrome.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.pdb
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\InfosysPalindrome.genruntimeconfig.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\InfosysPalindrome\obj\Debug\net8.0\ref\InfosysPalindrome.dll

@@ -67,7 +67,7 @@ Example:
 
 #### Achieve Dependency Injection in ASP.NET Core
 
-ASP.NET Core uses dependency injection (DI) to manage services and their dependencies (W). Services are registered in `Program.cs`, and DI automatically injects them into controllers and other components (H). DI simplifies code management, testing, and improves maintainability (Y).
+Dependency Injection (DI) is a design pattern that allows a class to receive its dependencies from an external source rather than creating them itself. This promotes loose coupling, making it easier to manage and test components independently. By using DI, developers can easily swap out implementations, enhancing flexibility and maintainability in their applications.
 
 Example:
 ```csharp

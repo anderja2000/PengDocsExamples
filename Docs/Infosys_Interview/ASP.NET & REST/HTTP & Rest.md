@@ -157,4 +157,7 @@ Implementation typically involves:
 4\. Defining user roles and permissions for authorization.
 
 These methods secure API endpoints (W). They ensure that only authenticated and authorized users can access protected resources (H). Proper implementation of authentication and authorization is crucial for maintaining security and integrity in RESTful services (Y).
-sponse-cycle-in-node-js-works-with-external-i-o
+
+#### Describe the req/res lifecycle? 
+
+The request/response cycle in ASP.NET Core describes how an HTTP request is processed. When a client sends a request, it first goes through a series of middleware components that can modify or inspect the request. After routing to the appropriate controller, a response is generated and then sent back through the middleware in reverse order before reaching the client.
