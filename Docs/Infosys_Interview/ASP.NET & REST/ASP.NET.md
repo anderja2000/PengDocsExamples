@@ -22,7 +22,7 @@ A controller in ASP.NET Core handles incoming HTTP requests, processes them, and
 
 ---
 
-#### How does controller-based routing work?
+#### <span style="text-decoration: underline; color: pink;">How does controller-based routing work?</span>
 
 Controller-based routing in ASP.NET Core uses route attributes to map URLs to controller actions (W). The `Route` attribute specifies the URL pattern, and action methods are triggered based on the matched route (H). This routing system allows developers to design RESTful APIs and web applications efficiently (Y).
 

@@ -1,0 +1,15 @@
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.AssemblyInfoInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.AssemblyInfo.cs
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.csproj.CoreCompileInputs.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.sourcelink.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\bin\Debug\net8.0\Palindrome2.exe
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\bin\Debug\net8.0\Palindrome2.deps.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\bin\Debug\net8.0\Palindrome2.runtimeconfig.json
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\bin\Debug\net8.0\Palindrome2.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\bin\Debug\net8.0\Palindrome2.pdb
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\refint\Palindrome2.dll
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.pdb
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\Palindrome2.genruntimeconfig.cache
+C:\Users\jdand\Downloads\revatureTraining\PengDocsExamples\Examples\Palindrome2\obj\Debug\net8.0\ref\Palindrome2.dll

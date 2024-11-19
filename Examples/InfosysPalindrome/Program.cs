@@ -5,7 +5,8 @@ class Program
 	static void Main(string[] args)
 	{
 		// Palindrome(); 
-		PalindromeFor(); 
+		// PalindromeFor(); 
+		PalindromeA(); 
 	}
 	
 	// using string reverse method 
@@ -38,5 +39,18 @@ class Program
 		}
 		
 		Console.WriteLine((IsPalindrome)? $" {Input} is a palindrome": $"{Input} is not a palindrome");
+	}
+	
+	public static void PalindromeA() { 
+		Console.WriteLine("enter a possible palindrome: "); 
+		string Input = Console.ReadLine(); 
+		
+		char[] charArray = Input.ToCharArray(); 
+		Array.Reverse(charArray); 
+		string reversed = new string(charArray); 
+		
+		
+		Console.WriteLine( (Input == reversed) ? $"{Input} is a palindrome" 
+		: $"{Input}is not a palindrome" ); 
 	}
 }

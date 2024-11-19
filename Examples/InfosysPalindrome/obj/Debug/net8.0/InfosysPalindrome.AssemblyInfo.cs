@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfosysPalindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6a7ba322e675921407ad35ca303860bb6816f64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf955f40bbc8babb8237397aadf5abfe0ac98e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfosysPalindrome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfosysPalindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
